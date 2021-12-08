@@ -1,4 +1,4 @@
-<h2>data import하는 순서</h2>
+<h2>data import 순서</h2>
 
 1. SIDOCODE.csv, VACCINE.csv
 2. SIGUNGUCODE.csv
