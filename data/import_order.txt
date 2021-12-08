@@ -1,0 +1,1 @@
+sido, vaccine-> sugungu->person,pharmacy,hospital, hospiatl_vaccine->reserrvation,hospital_time,pharmacy_time
